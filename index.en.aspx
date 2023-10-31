@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="es">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
  <head>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
   <meta name="generator" content="openElement (1.57.9)" />
@@ -10,32 +10,23 @@
   <link rel="stylesheet" type="text/css" href="WEFiles/Css/ie7.css?v=63614056866" />
   <![endif]-->
   <script type="text/javascript">
-   var WEInfoPage={PHPVersion:"phpOK",OEVersion:"1-57-9",PagePath:"index",Culture:"ES",LanguageCode:"ES",RelativePath:"",RenderMode:"Export",PageAssociatePath:"index",EditorTexts:null}
+   var WEInfoPage={PHPVersion:"phpOK",OEVersion:"1-57-9",PagePath:"index",Culture:"EN",LanguageCode:"EN",RelativePath:"",RenderMode:"Export",PageAssociatePath:"index",EditorTexts:null}
   </script>
   <script type="text/javascript" src="WEFiles/Client/jQuery/1.10.2.js?v=63614056866"></script>
   <script type="text/javascript" src="WEFiles/Client/jQuery/migrate.js?v=63614056866"></script>
   <script type="text/javascript" src="WEFiles/Client/Common/oe.min.js?v=63629943594"></script>
-  <script type="text/javascript" src="index(var).js?v=50491126800"></script>
-  <script type="text/javascript" src="WEFiles/Client/jQuery/Plugins/jquery.ui.effects.js?v=63629943611"></script>
-  <script type="text/javascript" src="WEFiles/Client/WECollapsiblePanel-v22.js?v=63629943597"></script>
  </head>
  <body class="" data-gl="{&quot;KeywordsHomeNotInherits&quot;:false}">
   <form id="XForm" method="post" action="#"></form>
   <div id="XBody" class="BaseDiv RBoth OEPageXbody OESK_XBody_Default" style="z-index:1000">
    <div class="OESZ OESZ_DivContent OESZG_XBody">
     <div class="OESZ OESZ_XBodyContent OESZG_XBody OECT OECT_Content OECTAbs">
-     <div id="WE6d44e70099" class="BaseDiv RBoth OEWECollapsiblePanel OESK_WECollapsiblePanel_Default" style="z-index:1001">
-      <div class="OESZ OESZ_DivContent OESZG_WE6d44e70099">
-       <div style="overflow:hidden; height:100%;">
-        <div class="WECollapsiblePanelContent">
-         <div style="position:relative;" class="OESZ OESZ_OpenZoneTop OESZG_WE6d44e70099 OpenZone">
-          <div class="OECT OECT_OpenZone OECTAbs"></div>
-         </div><div style="position:relative" class="OESZ OESZ_PullZoneCloseTop OESZG_WE6d44e70099 PullZone PullZoneClose">
-          <div></div>
-         </div>
-        </div>
-       </div>
-      </div>
+     <div id="WEdeaae624f6" class="BaseDiv RBoth OEWEDocument OESK_WEDocument_Default" style="z-index:1001">
+      <style type="text/css">
+       .cs95E872D0{text-align:left;text-indent:0pt;margin:0pt 0pt 0pt 0pt}
+       .csCF6BBF71{color:#000000;background-color:transparent;font-family:Times New Roman;font-size:12pt;font-weight:normal;font-style:normal;}
+      </style>
+      <div class="OESZ OESZ_DivContent OESZG_WEdeaae624f6"><p class="cs95E872D0"><span class="csCF6BBF71">fffff</span></p></div>
      </div>
     </div>
     <div class="OESZ OESZ_XBodyFooter OESZG_XBody OECT OECT_Footer OECTAbs"></div>
