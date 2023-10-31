@@ -1,0 +1,6 @@
+drop Google Recaptcha
+
+Erreur Javascript inattendue sur l'éditeur de page.
+Fichier :api.js
+Numéro de ligne :1
+Description :Uncaught TypeError: Object #<HTMLHeadElement> has no method 'prepend'
