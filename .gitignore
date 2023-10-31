@@ -10,3 +10,7 @@
 *.ope
 .gitignore
 *.rsd
+*.docx
+*.xlsx
+*.xlsb
+*.xlsm
