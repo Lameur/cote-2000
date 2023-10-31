@@ -140,3 +140,74 @@ OETrace :
 
 10/31/2023 3:12:05 PM | 
 ------------------
+10/31/2023 8:07:43 PM | 
+10/31/2023 8:07:43 PM | 
+Message : Impossible de trouver une partie du chemin d'accès 'C:\Users\Adam\OneDrive\GitHub-Projects\cote-2000\oe-users\user-new-account-v1.dat'.
+10/31/2023 8:07:43 PM | 
+LastTrace : openElement.Serialization.InternalSerializeFile(Object obj, String filePath, Boolean noCache)
+10/31/2023 8:07:43 PM | 
+Params : 
+10/31/2023 8:07:43 PM | 
+MethodeName : Void WinIOError(Int32, System.String)
+10/31/2023 8:07:43 PM | 
+Stamp : 10/31/2023 8:07:42 PM
+10/31/2023 8:07:43 PM | 
+OSFullName : Microsoft Windows 10 Professionnel
+10/31/2023 8:07:43 PM | 
+AvailablePhysicalMemory : 690.71 Mo 
+10/31/2023 8:07:43 PM | 
+TotalPhysicalMemory : 7.71 Go 
+10/31/2023 8:07:43 PM | 
+AvailableVirtualMemory : 3.24 Go 
+10/31/2023 8:07:43 PM | 
+TotalVirtualMemory : 4 Go 
+10/31/2023 8:07:43 PM | 
+WorkingSet : 220.74 Mo 
+10/31/2023 8:07:43 PM | 
+PagedMemorySize : 142.8 Mo 
+10/31/2023 8:07:43 PM | 
+TotalMemory : 19.52 Mo 
+10/31/2023 8:07:43 PM | 
+
+10/31/2023 8:07:43 PM | 
+ExTrace : 
+10/31/2023 8:07:43 PM | 
+à openElement.Serialization.InternalSerializeFile(Object obj, String filePath, Boolean noCache)
+10/31/2023 8:07:43 PM | 
+à openElement.Serialization.SerializeFile(Object obj, String filePath)
+10/31/2023 8:07:43 PM | 
+
+10/31/2023 8:07:43 PM | 
+OETrace : 
+10/31/2023 8:07:43 PM | 
+à openElement.Serialization.SerializeFile(Object obj, String filePath)
+10/31/2023 8:07:43 PM | 
+à openElement.WebElement.PageConn.SaveDataPage(Boolean writeHtml)
+10/31/2023 8:07:43 PM | 
+à openElement.WebSite.WorkingSystem.Working_System.PageSave(List`1 listPageConn, Boolean writeHtml, Boolean withLinkMap, Boolean withListAction, List`1& listError)
+10/31/2023 8:07:43 PM | 
+à openElement.LoaderElementsLibrary._updateGEOnAllPages(ActionArg`1 actionArg)
+10/31/2023 8:07:43 PM | 
+à openElement.LoaderElementsLibrary._Closure$__._Lambda$__R5-1(ActionArg a0)
+10/31/2023 8:07:43 PM | 
+à openElement.Wait.RunFunction[TResult](FuncWait`1 action, ActionArg param, String text1, String text2, WaitIconType iconType)
+10/31/2023 8:07:43 PM | 
+à openElement.LoaderElementsLibrary.updateGEAndTempLinksOnAllPages(List`1 uniqueNames)
+10/31/2023 8:07:43 PM | 
+à openElement.WebSite.WebSite.Open(ActionArg`2 actionArg)
+10/31/2023 8:07:43 PM | 
+à openElement.WebSite.WebSite._Closure$__._Lambda$__R9-3(ActionArg a0)
+10/31/2023 8:07:43 PM | 
+à openElement.Wait.RunFunction[TResult](FuncWait`1 action, ActionArg param, String text1, String text2, WaitIconType iconType)
+10/31/2023 8:07:43 PM | 
+à openElement.WebSite.WebSite.Open(String path, Boolean createProject)
+10/31/2023 8:07:43 PM | 
+à openElement.Forms.FrmMain.AutoOpenProject()
+10/31/2023 8:07:43 PM | 
+à openElement.Forms.FrmMain.TimerStart_Tick(Object sender, EventArgs e)
+10/31/2023 8:07:43 PM | 
+à openElement.My.MyApplication.Main(String[] Args)
+10/31/2023 8:07:43 PM | 
+
+10/31/2023 8:07:43 PM | 
+------------------
