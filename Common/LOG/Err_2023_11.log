@@ -269,3 +269,156 @@ OETrace :
 
 11/2/2023 6:54:32 PM | 
 ------------------
+03/11/2023 15:53:26 | 
+03/11/2023 15:53:26 | 
+Message : Le format de la chaîne d'entrée est incorrect.
+03/11/2023 15:53:26 | 
+LastTrace : openElement.WebElement.JsValsAndUnits.StoN(String s)
+03/11/2023 15:53:26 | 
+Params : 
+03/11/2023 15:53:26 | 
+MethodeName : Double ParseDouble(System.String, System.Globalization.NumberStyles, System.Globalization.NumberFormatInfo)
+03/11/2023 15:53:26 | 
+Stamp : 03/11/2023 15:53:25
+03/11/2023 15:53:26 | 
+OSFullName : Microsoft Windows 10 Professionnel
+03/11/2023 15:53:26 | 
+AvailablePhysicalMemory : 448,55 Mo 
+03/11/2023 15:53:26 | 
+TotalPhysicalMemory : 7,71 Go 
+03/11/2023 15:53:26 | 
+AvailableVirtualMemory : 3,06 Go 
+03/11/2023 15:53:26 | 
+TotalVirtualMemory : 4 Go 
+03/11/2023 15:53:26 | 
+WorkingSet : 325,02 Mo 
+03/11/2023 15:53:26 | 
+PagedMemorySize : 297,39 Mo 
+03/11/2023 15:53:26 | 
+TotalMemory : 64,69 Mo 
+03/11/2023 15:53:26 | 
+
+03/11/2023 15:53:26 | 
+ExTrace : 
+03/11/2023 15:53:26 | 
+à openElement.WebElement.JsValsAndUnits.StoN(String s)
+03/11/2023 15:53:26 | 
+à openElement.WebElement.StylesManager.CssItems.CssUnit.GetNumberFloat()
+03/11/2023 15:53:26 | 
+à openElement.WebElement.StylesManager.CssItems.CssUnit.TryGetNumberPx(Int32& value, ElementBase element, JsValsAndUnits jsConv)
+03/11/2023 15:53:26 | 
+à openElement.WebElement.Elements.ElementBase.ToHtml(EnuTypeRenderMode mode)
+03/11/2023 15:53:26 | 
+
+03/11/2023 15:53:26 | 
+OETrace : 
+03/11/2023 15:53:26 | 
+à openElement.WebElement.Elements.ElementBase.ToHtml(EnuTypeRenderMode mode)
+03/11/2023 15:53:26 | 
+à openElement.Forms.PageEditFromJs.RenderElement(String id)
+03/11/2023 15:53:26 | 
+
+03/11/2023 15:53:26 | 
+------------------
+03/11/2023 15:53:33 | 
+03/11/2023 15:53:33 | 
+Message : Le format de la chaîne d'entrée est incorrect.
+03/11/2023 15:53:33 | 
+LastTrace : openElement.WebElement.JsValsAndUnits.StoN(String s)
+03/11/2023 15:53:33 | 
+Params : 
+03/11/2023 15:53:33 | 
+MethodeName : Double ParseDouble(System.String, System.Globalization.NumberStyles, System.Globalization.NumberFormatInfo)
+03/11/2023 15:53:33 | 
+Stamp : 03/11/2023 15:53:33
+03/11/2023 15:53:33 | 
+OSFullName : Microsoft Windows 10 Professionnel
+03/11/2023 15:53:33 | 
+AvailablePhysicalMemory : 371,78 Mo 
+03/11/2023 15:53:33 | 
+TotalPhysicalMemory : 7,71 Go 
+03/11/2023 15:53:33 | 
+AvailableVirtualMemory : 3,06 Go 
+03/11/2023 15:53:33 | 
+TotalVirtualMemory : 4 Go 
+03/11/2023 15:53:33 | 
+WorkingSet : 326,85 Mo 
+03/11/2023 15:53:33 | 
+PagedMemorySize : 299,18 Mo 
+03/11/2023 15:53:33 | 
+TotalMemory : 66,54 Mo 
+03/11/2023 15:53:33 | 
+
+03/11/2023 15:53:33 | 
+ExTrace : 
+03/11/2023 15:53:33 | 
+à openElement.WebElement.JsValsAndUnits.StoN(String s)
+03/11/2023 15:53:33 | 
+à openElement.WebElement.StylesManager.CssItems.CssUnit.GetNumberFloat()
+03/11/2023 15:53:33 | 
+à openElement.WebElement.StylesManager.CssItems.CssUnit.TryGetNumberPx(Int32& value, ElementBase element, JsValsAndUnits jsConv)
+03/11/2023 15:53:33 | 
+à openElement.WebElement.Elements.ElementBase.ToHtml(EnuTypeRenderMode mode)
+03/11/2023 15:53:33 | 
+
+03/11/2023 15:53:33 | 
+OETrace : 
+03/11/2023 15:53:33 | 
+à openElement.WebElement.Elements.ElementBase.ToHtml(EnuTypeRenderMode mode)
+03/11/2023 15:53:33 | 
+à openElement.Forms.PageEditFromJs.RenderElement(String id)
+03/11/2023 15:53:33 | 
+
+03/11/2023 15:53:33 | 
+------------------
+03/11/2023 15:54:24 | 
+03/11/2023 15:54:24 | 
+Message : Le format de la chaîne d'entrée est incorrect.
+03/11/2023 15:54:24 | 
+LastTrace : openElement.WebElement.JsValsAndUnits.StoN(String s)
+03/11/2023 15:54:24 | 
+Params : 
+03/11/2023 15:54:24 | 
+MethodeName : Double ParseDouble(System.String, System.Globalization.NumberStyles, System.Globalization.NumberFormatInfo)
+03/11/2023 15:54:24 | 
+Stamp : 03/11/2023 15:54:24
+03/11/2023 15:54:24 | 
+OSFullName : Microsoft Windows 10 Professionnel
+03/11/2023 15:54:24 | 
+AvailablePhysicalMemory : 365,2 Mo 
+03/11/2023 15:54:24 | 
+TotalPhysicalMemory : 7,71 Go 
+03/11/2023 15:54:24 | 
+AvailableVirtualMemory : 3,03 Go 
+03/11/2023 15:54:24 | 
+TotalVirtualMemory : 4 Go 
+03/11/2023 15:54:24 | 
+WorkingSet : 343,75 Mo 
+03/11/2023 15:54:24 | 
+PagedMemorySize : 312,38 Mo 
+03/11/2023 15:54:24 | 
+TotalMemory : 79,14 Mo 
+03/11/2023 15:54:24 | 
+
+03/11/2023 15:54:24 | 
+ExTrace : 
+03/11/2023 15:54:24 | 
+à openElement.WebElement.JsValsAndUnits.StoN(String s)
+03/11/2023 15:54:24 | 
+à openElement.WebElement.StylesManager.CssItems.CssUnit.GetNumberFloat()
+03/11/2023 15:54:24 | 
+à openElement.WebElement.StylesManager.CssItems.CssUnit.TryGetNumberPx(Int32& value, ElementBase element, JsValsAndUnits jsConv)
+03/11/2023 15:54:24 | 
+à openElement.WebElement.Elements.ElementBase.ToHtml(EnuTypeRenderMode mode)
+03/11/2023 15:54:24 | 
+
+03/11/2023 15:54:24 | 
+OETrace : 
+03/11/2023 15:54:24 | 
+à openElement.WebElement.Elements.ElementBase.ToHtml(EnuTypeRenderMode mode)
+03/11/2023 15:54:24 | 
+à openElement.Forms.PageEditFromJs.RenderElement(String id)
+03/11/2023 15:54:24 | 
+
+03/11/2023 15:54:24 | 
+------------------
