@@ -69,3 +69,203 @@ OETrace :
 
 11/1/2023 3:36:31 PM | 
 ------------------
+02/11/2023 18:24:33 | 
+02/11/2023 18:24:33 | 
+Message : Script timed out
+02/11/2023 18:24:33 | 
+LastTrace : openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args)
+02/11/2023 18:24:33 | 
+Params : 
+02/11/2023 18:24:33 | 
+MethodeName : gcroot<System::Object ^>* CefSharp.ScriptCore.Evaluate(CefSharp.ScriptCore*, gcroot<System::Object ^>*, CefRefPtr<CefBrowser>*, CefStringBase<CefStringTraitsUTF16>*, Double)
+02/11/2023 18:24:33 | 
+Stamp : 02/11/2023 18:24:32
+02/11/2023 18:24:33 | 
+OSFullName : Microsoft Windows 10 Professionnel
+02/11/2023 18:24:33 | 
+AvailablePhysicalMemory : 500,1 Mo 
+02/11/2023 18:24:33 | 
+TotalPhysicalMemory : 7,71 Go 
+02/11/2023 18:24:33 | 
+AvailableVirtualMemory : 2,93 Go 
+02/11/2023 18:24:33 | 
+TotalVirtualMemory : 4 Go 
+02/11/2023 18:24:33 | 
+WorkingSet : 217,46 Mo 
+02/11/2023 18:24:33 | 
+PagedMemorySize : 343,23 Mo 
+02/11/2023 18:24:33 | 
+TotalMemory : 40,72 Mo 
+02/11/2023 18:24:33 | 
+
+02/11/2023 18:24:33 | 
+ExTrace : 
+02/11/2023 18:24:33 | 
+à openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args)
+02/11/2023 18:24:33 | 
+
+02/11/2023 18:24:33 | 
+OETrace : 
+02/11/2023 18:24:33 | 
+à openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args)
+02/11/2023 18:24:33 | 
+à openElement.CtlBrowser._Lambda$__R98-2(Object a0)
+02/11/2023 18:24:33 | 
+
+02/11/2023 18:24:33 | 
+------------------
+02/11/2023 18:25:20 | 
+02/11/2023 18:25:20 | 
+Message : Script timed out
+02/11/2023 18:25:20 | 
+LastTrace : openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args)
+02/11/2023 18:25:20 | 
+Params : 
+02/11/2023 18:25:20 | 
+MethodeName : gcroot<System::Object ^>* CefSharp.ScriptCore.Evaluate(CefSharp.ScriptCore*, gcroot<System::Object ^>*, CefRefPtr<CefBrowser>*, CefStringBase<CefStringTraitsUTF16>*, Double)
+02/11/2023 18:25:20 | 
+Stamp : 02/11/2023 18:25:20
+02/11/2023 18:25:20 | 
+OSFullName : Microsoft Windows 10 Professionnel
+02/11/2023 18:25:20 | 
+AvailablePhysicalMemory : 650,52 Mo 
+02/11/2023 18:25:20 | 
+TotalPhysicalMemory : 7,71 Go 
+02/11/2023 18:25:20 | 
+AvailableVirtualMemory : 2,92 Go 
+02/11/2023 18:25:20 | 
+TotalVirtualMemory : 4 Go 
+02/11/2023 18:25:20 | 
+WorkingSet : 221,48 Mo 
+02/11/2023 18:25:20 | 
+PagedMemorySize : 342,49 Mo 
+02/11/2023 18:25:20 | 
+TotalMemory : 43,84 Mo 
+02/11/2023 18:25:20 | 
+
+02/11/2023 18:25:20 | 
+ExTrace : 
+02/11/2023 18:25:20 | 
+à openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args)
+02/11/2023 18:25:20 | 
+
+02/11/2023 18:25:20 | 
+OETrace : 
+02/11/2023 18:25:20 | 
+à openElement.CtlBrowser._InvokeScriptWaitResult(Object[] args)
+02/11/2023 18:25:20 | 
+à openElement.CtlBrowser._Lambda$__R98-2(Object a0)
+02/11/2023 18:25:20 | 
+
+02/11/2023 18:25:20 | 
+------------------
+11/2/2023 6:54:28 PM | 
+11/2/2023 6:54:28 PM | 
+Message : Ce nom existe déjà dans la page.
+11/2/2023 6:54:28 PM | 
+Veuillez utiliser un autre nom.
+11/2/2023 6:54:28 PM | 
+LastTrace : openElement.WebElement.Elements.ElementBase.set_Name(String value)
+11/2/2023 6:54:28 PM | 
+Params : 
+11/2/2023 6:54:28 PM | 
+MethodeName : Void set_Name(System.String)
+11/2/2023 6:54:28 PM | 
+Stamp : 11/2/2023 6:54:28 PM
+11/2/2023 6:54:28 PM | 
+OSFullName : Microsoft Windows 10 Professionnel
+11/2/2023 6:54:28 PM | 
+AvailablePhysicalMemory : 928.3 Mo 
+11/2/2023 6:54:28 PM | 
+TotalPhysicalMemory : 7.71 Go 
+11/2/2023 6:54:28 PM | 
+AvailableVirtualMemory : 2.56 Go 
+11/2/2023 6:54:28 PM | 
+TotalVirtualMemory : 4 Go 
+11/2/2023 6:54:28 PM | 
+WorkingSet : 473.72 Mo 
+11/2/2023 6:54:28 PM | 
+PagedMemorySize : 676.8 Mo 
+11/2/2023 6:54:28 PM | 
+TotalMemory : 75.53 Mo 
+11/2/2023 6:54:28 PM | 
+
+11/2/2023 6:54:28 PM | 
+ExTrace : 
+11/2/2023 6:54:28 PM | 
+à openElement.WebElement.Elements.ElementBase.set_Name(String value)
+11/2/2023 6:54:28 PM | 
+à openElement.WebElement.Editors.Form.FrmNewScriptBlock.Save()
+11/2/2023 6:54:28 PM | 
+à openElement.WebElement.Editors.Form.FrmNewScriptBlock.SBOK_Click(Object sender, EventArgs e)
+11/2/2023 6:54:28 PM | 
+
+11/2/2023 6:54:28 PM | 
+OETrace : 
+11/2/2023 6:54:28 PM | 
+à openElement.My.MyApplication.MyApplication_UnhandledException(Object sender, UnhandledExceptionEventArgs e)
+11/2/2023 6:54:28 PM | 
+à openElement.Controls.CtlCodePageEditor.AddNewBlock(EnuScriptType scriptType, EnuScriptPosition scriptPosition)
+11/2/2023 6:54:28 PM | 
+à openElement.Controls.CtlCodePageEditor.AddButton_Click(Object sender, ItemClickEventArgs e)
+11/2/2023 6:54:28 PM | 
+à openElement.My.MyApplication.Main(String[] Args)
+11/2/2023 6:54:28 PM | 
+
+11/2/2023 6:54:28 PM | 
+------------------
+11/2/2023 6:54:32 PM | 
+11/2/2023 6:54:32 PM | 
+Message : Ce nom existe déjà dans la page.
+11/2/2023 6:54:32 PM | 
+Veuillez utiliser un autre nom.
+11/2/2023 6:54:32 PM | 
+LastTrace : openElement.WebElement.Elements.ElementBase.set_Name(String value)
+11/2/2023 6:54:32 PM | 
+Params : 
+11/2/2023 6:54:32 PM | 
+MethodeName : Void set_Name(System.String)
+11/2/2023 6:54:32 PM | 
+Stamp : 11/2/2023 6:54:32 PM
+11/2/2023 6:54:32 PM | 
+OSFullName : Microsoft Windows 10 Professionnel
+11/2/2023 6:54:32 PM | 
+AvailablePhysicalMemory : 1004.8 Mo 
+11/2/2023 6:54:32 PM | 
+TotalPhysicalMemory : 7.71 Go 
+11/2/2023 6:54:32 PM | 
+AvailableVirtualMemory : 2.57 Go 
+11/2/2023 6:54:32 PM | 
+TotalVirtualMemory : 4 Go 
+11/2/2023 6:54:32 PM | 
+WorkingSet : 475.32 Mo 
+11/2/2023 6:54:32 PM | 
+PagedMemorySize : 676.75 Mo 
+11/2/2023 6:54:32 PM | 
+TotalMemory : 78.89 Mo 
+11/2/2023 6:54:32 PM | 
+
+11/2/2023 6:54:32 PM | 
+ExTrace : 
+11/2/2023 6:54:32 PM | 
+à openElement.WebElement.Elements.ElementBase.set_Name(String value)
+11/2/2023 6:54:32 PM | 
+à openElement.WebElement.Editors.Form.FrmNewScriptBlock.Save()
+11/2/2023 6:54:32 PM | 
+à openElement.WebElement.Editors.Form.FrmNewScriptBlock.SBOK_Click(Object sender, EventArgs e)
+11/2/2023 6:54:32 PM | 
+
+11/2/2023 6:54:32 PM | 
+OETrace : 
+11/2/2023 6:54:32 PM | 
+à openElement.My.MyApplication.MyApplication_UnhandledException(Object sender, UnhandledExceptionEventArgs e)
+11/2/2023 6:54:32 PM | 
+à openElement.Controls.CtlCodePageEditor.AddNewBlock(EnuScriptType scriptType, EnuScriptPosition scriptPosition)
+11/2/2023 6:54:32 PM | 
+à openElement.Controls.CtlCodePageEditor.AddButton_Click(Object sender, ItemClickEventArgs e)
+11/2/2023 6:54:32 PM | 
+à openElement.My.MyApplication.Main(String[] Args)
+11/2/2023 6:54:32 PM | 
+
+11/2/2023 6:54:32 PM | 
+------------------

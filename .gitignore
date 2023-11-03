@@ -1,4 +1,4 @@
-# Core
+# Gitignore
 /Backup
 /Gabage
 .htaccess
@@ -11,3 +11,5 @@
 *.xlsx
 *.xlsb
 *.xlsm
+/.vscode
+.fake
