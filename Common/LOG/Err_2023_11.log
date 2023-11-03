@@ -422,3 +422,105 @@ OETrace :
 
 03/11/2023 15:54:24 | 
 ------------------
+03/11/2023 16:00:41 | 
+03/11/2023 16:00:41 | 
+Message : Le format de la chaîne d'entrée est incorrect.
+03/11/2023 16:00:41 | 
+LastTrace : openElement.WebElement.JsValsAndUnits.StoN(String s)
+03/11/2023 16:00:41 | 
+Params : 
+03/11/2023 16:00:41 | 
+MethodeName : Double ParseDouble(System.String, System.Globalization.NumberStyles, System.Globalization.NumberFormatInfo)
+03/11/2023 16:00:41 | 
+Stamp : 03/11/2023 16:00:41
+03/11/2023 16:00:41 | 
+OSFullName : Microsoft Windows 10 Professionnel
+03/11/2023 16:00:41 | 
+AvailablePhysicalMemory : 888,22 Mo 
+03/11/2023 16:00:41 | 
+TotalPhysicalMemory : 7,71 Go 
+03/11/2023 16:00:41 | 
+AvailableVirtualMemory : 3,05 Go 
+03/11/2023 16:00:41 | 
+TotalVirtualMemory : 4 Go 
+03/11/2023 16:00:41 | 
+WorkingSet : 218,67 Mo 
+03/11/2023 16:00:41 | 
+PagedMemorySize : 321,43 Mo 
+03/11/2023 16:00:41 | 
+TotalMemory : 52,61 Mo 
+03/11/2023 16:00:41 | 
+
+03/11/2023 16:00:41 | 
+ExTrace : 
+03/11/2023 16:00:41 | 
+à openElement.WebElement.JsValsAndUnits.StoN(String s)
+03/11/2023 16:00:41 | 
+à openElement.WebElement.StylesManager.CssItems.CssUnit.GetNumberFloat()
+03/11/2023 16:00:41 | 
+à openElement.WebElement.StylesManager.CssItems.CssUnit.TryGetNumberPx(Int32& value, ElementBase element, JsValsAndUnits jsConv)
+03/11/2023 16:00:41 | 
+à openElement.WebElement.Elements.ElementBase.ToHtml(EnuTypeRenderMode mode)
+03/11/2023 16:00:41 | 
+
+03/11/2023 16:00:41 | 
+OETrace : 
+03/11/2023 16:00:41 | 
+à openElement.WebElement.Elements.ElementBase.ToHtml(EnuTypeRenderMode mode)
+03/11/2023 16:00:41 | 
+à openElement.Forms.PageEditFromJs.RenderElement(String id)
+03/11/2023 16:00:41 | 
+
+03/11/2023 16:00:41 | 
+------------------
+03/11/2023 16:00:46 | 
+03/11/2023 16:00:46 | 
+Message : Le format de la chaîne d'entrée est incorrect.
+03/11/2023 16:00:46 | 
+LastTrace : openElement.WebElement.JsValsAndUnits.StoN(String s)
+03/11/2023 16:00:46 | 
+Params : 
+03/11/2023 16:00:46 | 
+MethodeName : Double ParseDouble(System.String, System.Globalization.NumberStyles, System.Globalization.NumberFormatInfo)
+03/11/2023 16:00:46 | 
+Stamp : 03/11/2023 16:00:46
+03/11/2023 16:00:46 | 
+OSFullName : Microsoft Windows 10 Professionnel
+03/11/2023 16:00:46 | 
+AvailablePhysicalMemory : 734,81 Mo 
+03/11/2023 16:00:46 | 
+TotalPhysicalMemory : 7,71 Go 
+03/11/2023 16:00:46 | 
+AvailableVirtualMemory : 3,05 Go 
+03/11/2023 16:00:46 | 
+TotalVirtualMemory : 4 Go 
+03/11/2023 16:00:46 | 
+WorkingSet : 219,25 Mo 
+03/11/2023 16:00:46 | 
+PagedMemorySize : 321,41 Mo 
+03/11/2023 16:00:46 | 
+TotalMemory : 50,95 Mo 
+03/11/2023 16:00:46 | 
+
+03/11/2023 16:00:46 | 
+ExTrace : 
+03/11/2023 16:00:46 | 
+à openElement.WebElement.JsValsAndUnits.StoN(String s)
+03/11/2023 16:00:46 | 
+à openElement.WebElement.StylesManager.CssItems.CssUnit.GetNumberFloat()
+03/11/2023 16:00:46 | 
+à openElement.WebElement.StylesManager.CssItems.CssUnit.TryGetNumberPx(Int32& value, ElementBase element, JsValsAndUnits jsConv)
+03/11/2023 16:00:46 | 
+à openElement.WebElement.Elements.ElementBase.ToHtml(EnuTypeRenderMode mode)
+03/11/2023 16:00:46 | 
+
+03/11/2023 16:00:46 | 
+OETrace : 
+03/11/2023 16:00:46 | 
+à openElement.WebElement.Elements.ElementBase.ToHtml(EnuTypeRenderMode mode)
+03/11/2023 16:00:46 | 
+à openElement.Forms.PageEditFromJs.RenderElement(String id)
+03/11/2023 16:00:46 | 
+
+03/11/2023 16:00:46 | 
+------------------
